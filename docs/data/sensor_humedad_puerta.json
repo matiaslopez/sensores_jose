@@ -1,0 +1,26 @@
+{
+  "nombre_sensor": "puerta",
+  "tipo_sensor": "humedad",
+  "medidas": [
+    { "timestamp": "2026-03-19T10:00:00", "valor": 45.2 },
+    { "timestamp": "2026-03-19T10:10:00", "valor": 46.1 },
+    { "timestamp": "2026-03-19T10:20:00", "valor": 44.8 },
+    { "timestamp": "2026-03-19T10:30:00", "valor": 45.5 },
+    { "timestamp": "2026-03-19T10:40:00", "valor": 47.3 },
+    { "timestamp": "2026-03-19T10:50:00", "valor": 48.1 },
+    { "timestamp": "2026-03-19T11:00:00", "valor": 46.9 },
+    { "timestamp": "2026-03-19T11:10:00", "valor": 45.7 },
+    { "timestamp": "2026-03-19T11:20:00", "valor": 44.3 },
+    { "timestamp": "2026-03-19T11:30:00", "valor": 43.8 },
+    { "timestamp": "2026-03-19T11:40:00", "valor": 45.0 },
+    { "timestamp": "2026-03-19T11:50:00", "valor": 46.2 },
+    { "timestamp": "2026-03-19T12:00:00", "valor": 47.5 },
+    { "timestamp": "2026-03-19T12:10:00", "valor": 48.9 },
+    { "timestamp": "2026-03-19T12:20:00", "valor": 49.3 },
+    { "timestamp": "2026-03-19T12:30:00", "valor": 50.1 },
+    { "timestamp": "2026-03-19T12:40:00", "valor": 51.2 },
+    { "timestamp": "2026-03-19T12:50:00", "valor": 50.8 },
+    { "timestamp": "2026-03-19T13:00:00", "valor": 49.6 },
+    { "timestamp": "2026-03-19T13:10:00", "valor": 48.4 }
+  ]
+}
