@@ -1,0 +1,108 @@
+.top-values-table {
+  margin-top: 30px;
+}
+
+.top-values-table h3 {
+  margin-bottom: 15px;
+  color: #333;
+  font-size: 1.3rem;
+}
+
+.table-container {
+  overflow-x: auto;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.top-values-table table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.top-values-table thead {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.top-values-table th {
+  padding: 12px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.top-values-table tbody tr {
+  border-bottom: 1px solid #e0e0e0;
+  transition: background 0.2s;
+}
+
+.top-values-table tbody tr:hover {
+  background: #f8f9fa;
+}
+
+.top-values-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.top-values-table td {
+  padding: 12px;
+  font-size: 0.95rem;
+}
+
+.medal-cell {
+  text-align: center;
+  width: 60px;
+}
+
+.medal {
+  font-size: 1.5rem;
+}
+
+.sensor-cell {
+  font-weight: 500;
+  color: #555;
+  text-transform: capitalize;
+}
+
+.value-cell {
+  color: #667eea;
+  font-size: 1.05rem;
+}
+
+.value-cell strong {
+  font-size: 1.1rem;
+}
+
+.timestamp-cell {
+  color: #888;
+  font-size: 0.9rem;
+}
+
+.rank-1 {
+  background: rgba(255, 215, 0, 0.1);
+}
+
+.rank-2 {
+  background: rgba(192, 192, 192, 0.1);
+}
+
+.rank-3 {
+  background: rgba(205, 127, 50, 0.1);
+}
+
+@media (max-width: 768px) {
+  .top-values-table th,
+  .top-values-table td {
+    padding: 8px;
+    font-size: 0.85rem;
+  }
+
+  .medal {
+    font-size: 1.2rem;
+  }
+
+  .timestamp-cell {
+    font-size: 0.8rem;
+  }
+}
