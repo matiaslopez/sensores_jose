@@ -1,0 +1,26 @@
+{
+  "nombre_sensor": "ventana",
+  "tipo_sensor": "humedad",
+  "medidas": [
+    { "timestamp": "2026-03-19T10:00:00", "valor": 52.3 },
+    { "timestamp": "2026-03-19T10:10:00", "valor": 51.8 },
+    { "timestamp": "2026-03-19T10:20:00", "valor": 53.1 },
+    { "timestamp": "2026-03-19T10:30:00", "valor": 54.2 },
+    { "timestamp": "2026-03-19T10:40:00", "valor": 55.6 },
+    { "timestamp": "2026-03-19T10:50:00", "valor": 56.3 },
+    { "timestamp": "2026-03-19T11:00:00", "valor": 55.9 },
+    { "timestamp": "2026-03-19T11:10:00", "valor": 54.7 },
+    { "timestamp": "2026-03-19T11:20:00", "valor": 53.5 },
+    { "timestamp": "2026-03-19T11:30:00", "valor": 52.9 },
+    { "timestamp": "2026-03-19T11:40:00", "valor": 54.1 },
+    { "timestamp": "2026-03-19T11:50:00", "valor": 55.0 },
+    { "timestamp": "2026-03-19T12:00:00", "valor": 56.2 },
+    { "timestamp": "2026-03-19T12:10:00", "valor": 57.4 },
+    { "timestamp": "2026-03-19T12:20:00", "valor": 58.1 },
+    { "timestamp": "2026-03-19T12:30:00", "valor": 59.0 },
+    { "timestamp": "2026-03-19T12:40:00", "valor": 60.2 },
+    { "timestamp": "2026-03-19T12:50:00", "valor": 59.7 },
+    { "timestamp": "2026-03-19T13:00:00", "valor": 58.5 },
+    { "timestamp": "2026-03-19T13:10:00", "valor": 57.3 }
+  ]
+}
