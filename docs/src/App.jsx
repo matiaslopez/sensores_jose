@@ -27,7 +27,7 @@ function App() {
 
       const dataPromises = sensorFiles.map(async (file) => {
         try {
-          const response = await fetch(`/data/${file}`)
+          const response = await fetch(`${import.meta.env.BASE_URL}data/${file}`)
           if (response.ok) {
             return await response.json()
           }
